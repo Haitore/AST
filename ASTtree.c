@@ -1,3 +1,8 @@
+/*
+Author: Haitore
+Date: September 2024
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
